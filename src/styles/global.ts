@@ -8,7 +8,9 @@ const GlobalStyle = createGlobalStyle`
     --input-background: #e7e9ee;
     --input-border: #d7d7d7;
 
-    --button-border: #969cb2;
+    --button-border: rgba(150, 156, 178, 0.2);
+    --button-background-income-active: rgba(18, 164, 84, 0.1);
+    --button-background-outcome-active: rgba(229, 46, 77, 0.1);
 
     --red: #e52e4d;
     --blue: #5429cc;
